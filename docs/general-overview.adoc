@@ -1,0 +1,49 @@
+= To be included in technical documentation
+
+The technical documentation will not cover tutorials, best practices or provide advice. Links to other resources that fall outside the scope of technical documentation will be provided in each topic
+
+== Get started
+General overview of technical documentation (interactive graphics?)
+
+== Data publishing
+=== Publishing
+==== Publishing through the IPT
+==== Publishing with the (registry) API (link to API topic)
+==== Other publishing methods
+For example BioCase
+
+=== Dataset classes
+==== Data quality recommendations
+
+=== Tools to quality check your publication
+==== Dataset validator
+==== Species matching
+==== Species API (link to API topic)
+==== Test IPT
+
+=== The meaning of flags and issues and how you should deal with them 
+
+=== Data publishing FAQ
+* change occurrence IDs
+* citations
+
+== GBIF data processing & quality checks
+already work in progress by informatics
+
+== Data use
+=== Downloads
+==== Download on GBIF.org
+==== Download with the API (link to API topic)
+==== Download with API wrapper
+* rgbif
+* pygbif
+
+== API
+
+=== Registry API
+
+=== Species API
+
+=== Occurrence API
+
+=== Litterature API
